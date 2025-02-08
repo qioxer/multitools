@@ -20,4 +20,4 @@ This repository contains a simple **Multi Tools Terminal** script that allows yo
 
    - To clone the repository:
    ```bash
-   git clone https://github.com/your-username/multi-tools.git
+   git clone https://github.com/qioxer/multitools
